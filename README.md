@@ -3,7 +3,7 @@
 
 ## Made with React 
 
-<a href="https://albanerotask.netlify.app" target="_blank">Live Demo</a>
+<a href="https://albanerotask.netlify.app" target="_blank"><b>Live Demo</b></a>
 
 Few Assumptioms made:
 - Displayed Chart is based on hardcoded random data.
@@ -35,4 +35,9 @@ Use a Router for navigating between pages
 npm start
 ```
 
+### Desktop View
+![Desktop View](https://github.com/csbotla/albanero-task/blob/main/images/Desktop.png)
+
+### Mobile View
+![Mobile View](https://github.com/csbotla/albanero-task/blob/main/images/Mobile.png)
 
