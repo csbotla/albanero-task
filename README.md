@@ -6,7 +6,9 @@
 <a href="https://albanerotask.netlify.app" target="_blank"><b>Live Demo</b></a>
 
 Few Assumptioms made:
-- Displayed Chart is based on hardcoded random data.
+- Name and Value as mandatory
+- Displayed Linear Chart is based on random/dummy data(hardcoded as mentioned).
+- Added Reset for convenience
 - Reset will clear all data (including LocalStorage).
 - Used LocalStorage.
 - Create Cards - act as toggle(will change if required).
