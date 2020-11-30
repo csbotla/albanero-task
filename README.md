@@ -3,6 +3,8 @@
 
 ## Made with React
 
+[Demo](https://albanerotask.netlify.app)
+
 On initial load, page should contain a form with only one Custom input row component and an
 Add Row and Create Cards button.
 The Custom input row component should contain two input boxes and a remove button as
@@ -19,3 +21,5 @@ diagram with the mentioned details.
 On the next page a linear chart should be created with some dummy data
 X- axis should have a time scale and y – axis can be any units based on the data
 Use a Router for navigating between pages
+
+
